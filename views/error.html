@@ -1,0 +1,8 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+<h1>An error occured.</h1>
+
+<h4>"{{ message }}"</h4>
+<pre>{{ error.stack }}</pre>
+{% endblock %}

@@ -1,0 +1,23 @@
+{
+  "name": "ultimate-boilerplate",
+  "version": "0.0.0",
+  "authors": [
+    "Pascal Cremer <b00gizm@gmail.com>"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "modernizr": "~2.8.3",
+    "bootstrap": "~3.3.2"
+  }
+}

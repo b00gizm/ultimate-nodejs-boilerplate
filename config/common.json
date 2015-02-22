@@ -1,0 +1,16 @@
+{
+  "app": {
+    "analytics": {
+      "google": {
+        "trackingID": "UA-XXXXX-X"
+      }
+    },
+    "defaults": {
+      "language": "en"
+    }
+  },
+
+  "i18n": {
+    "availableTranslations": ["en", "de", "fr"]
+  }
+}

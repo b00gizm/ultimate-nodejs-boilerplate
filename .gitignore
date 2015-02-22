@@ -1,0 +1,13 @@
+# Exclude local configuration
+config/local.json
+
+# Don't check in vendor libs
+node_modules
+public/bower_components
+
+# Frontend assets will be generated
+public/javascripts/*
+public/stylesheets/*
+busters.json
+
+!.gitkeep
